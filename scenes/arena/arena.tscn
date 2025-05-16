@@ -51,7 +51,7 @@ tile_set = ExtResource("1_1qjuf")
 [node name="DustParticles" type="GPUParticles2D" parent="Visuals"]
 z_index = 99
 position = Vector2(320, 180)
-amount = 20
+amount = 2000
 texture = ExtResource("2_8trdl")
 lifetime = 5.92
 process_material = SubResource("ParticleProcessMaterial_asdgj")
